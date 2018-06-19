@@ -1,0 +1,12 @@
+.container {
+<<<<<<< HEAD
+    margin: auto;
+    /*gives equal left and right margins*/
+}
+img {
+    width: 100%;
+}
+=======
+    margin-top: auto; /*gives equal left and right margins*/
+}
+>>>>>>> 305d2d8bc8a2872ec3a06a558bd006b95c2f359b
