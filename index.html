@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <title>Portfolio</title>
     <link rel="stylesheet" type="text/css" href="css/flexboxgrid.css">
@@ -19,8 +20,7 @@
             <nav id="navbar">
               <ul>
                 <li class="current"><a href="index.html">Home</a></li>
-                <li><a href="aboutMe.html">About me</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="#contact">Contact</a></li>
               </ul>
             </nav>
           </div>
@@ -88,7 +88,7 @@
           <div class="container">
               <div class="row center-sm center-xs middle-sm middle-xs">
                   <div class="col-sm-6">
-                      <img class="heartbeat" src="/img/brain_thinking.png" alt="">
+                      <img class="heartbeat" id="brain" src="/img/brain_thinking.png" alt="">
                   </div>
                   <div class="col-sm-6">
                       <h2>I'm <span class="color-text-2">looking forward</span> to expand my <span class="color-text-3">experiences</span> !</h2>
@@ -112,7 +112,7 @@
       <section id="contact">
           <div class="container">
               <div class="row center-xs">
-                  <div class="col-sm-4">
+                  <div class="col-sm-6 col-md-4">
                       <h4>Contact me!</h4>
                       <ul>
                           <li><a href="https://github.com/niknows" target="_blank"><i class="fab fa-github-alt"></i></a></li>
@@ -121,12 +121,12 @@
                       </ul>
                       
                   </div>
-                  <div class="col-sm-4">
+                  <div class="col-sm-6 col-md-4">
                       <h4>About</h4>
                     <p>What? Nothing here yet.</p>
                       
                   </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-12 col-md-4">
                       <h4>Tell me something:</h4>
                     <form>
                         <input type="text" name="email">
