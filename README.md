@@ -7,4 +7,4 @@ A project using:
   <li>Css Keyframes</li>
 </ul>
 <br>
-Access it <a href="https://niknows.github.io/css-flex-box-full-page/." target="_blank">here</a>.
+Access it <a href="https://niknows.github.io/css-flex-box-full-page/." target="_tab">here</a>.
