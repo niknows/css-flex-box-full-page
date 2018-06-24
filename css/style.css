@@ -32,6 +32,10 @@ img {width: 100%;}
 
 /*REUSABLE CODE*/
 
+/*button query text*/
+.submit-text-small{
+    display: none;
+}
 /*text-color options*/
 .color-text {
     color: #F97F51
@@ -402,10 +406,13 @@ section{
     .submit-text {
         display: none;
     }
+    .submite-text-small{
+        color: white;
+        display: inline;
+    }
     #contact button[type='submit']{
         margin-left: -10px;
         width: 37px;
         height: 37px;
         border-radius: 100%;
-        color: #fff;
-}
+    }
