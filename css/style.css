@@ -20,8 +20,8 @@ body {
 
 #logo {
     font-size: 2em;
-    font-weight: bold;
-    
+    font-weight: bold;  
+    line-height: 2;
     text-transform: uppercase;
     text-decoration: underline;
 }
