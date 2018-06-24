@@ -376,13 +376,24 @@ section{
 
 
 /*MEDIA QUERIES*/
+@media(max-width: 1200px){
+    
+    h2{font-size: 2.6em}
+    
+}
+
 @media(max-width: 1030px){
+    
     ul{width: 85%;}
 }
-@media(max-width: 768px) {
-
-    #brain,
-    #robot {
-        width: 40%;
+@media(max-width: 992px){
+    #robot {width: 25% }
+    #brain {
+        width: 90%;
+        margin-left: 40px
+    
     }
+    h2{font-size: 2.4em;}
+    
 }
+
