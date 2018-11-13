@@ -93,7 +93,7 @@ section{
 
 /*SHOWCASE*/
 #showcase {
-    background: url(../img/background-image.png) center;
+    background: url("../img/background-image.png") center;
     background-attachment: fixed;
 }
 #robot {
