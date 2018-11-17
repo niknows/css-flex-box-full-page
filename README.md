@@ -3,7 +3,7 @@ A project using:
 <ul>
   <li>HTML 5</li>
   <li>CSS Flexbox</li>
-  <li>Css Keyframes</li>
+  <li>CSS Keyframes</li>
   <li>Css Media queries</li>
 </ul>
 <br>
